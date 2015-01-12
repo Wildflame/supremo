@@ -1,0 +1,148 @@
+{
+  "projects": {
+    "col1": [
+      {
+        "title": "We are Supremo",
+        "copy": "a small design studio based <br> in Manchester. We believe that <br> people buy stories, not products. <br> We use design to bring your story to life <br> and build an emotional connection <br> with your audience. We throw <br> in a bucket load of <br> personality too.",
+        "href": false,
+        "hex_type": "intro",
+        "hex_bg": false,
+        "colNo": 1,
+        "rowNo": 1 
+      }
+    ],
+    "col2": [
+      {
+        "title": "DESIGNLY <br> DEVELOPMENT <br> MOBILE <br> MOTION VIDEO <br> ILLUSTRATION <br> BRANDING",
+        "copy": "OUR SERVICES",
+        "href": "/services.html",
+        "hex_type": "text",
+        "hex_bg": false,
+        "colNo": 2,
+        "rowNo": 1
+      },
+      {
+        "title": "BUILDING AN ARCHIVE <br> FOR A SALFORD ARTISTS <br> EXTENSIVE COLLECTION",
+        "copy": "LOAD PROJECT",
+        "href": "#",
+        "hex_type": "image",
+        "hex_bg": ["case-riley.png"],
+        "colNo": 2,
+        "rowNo": 2
+      }
+    ],
+    "col3": [
+      {
+        "title": "FLAMING HOT NEW <br> SITE &amp; BRAND FOR <br> SMOKE &amp; CROAK",
+        "copy": "LOAD PROJECT",
+        "href": "#",
+        "hex_type": "image",
+        "hex_bg": ["smoke-case-panel.png"],
+        "colNo": 2,
+        "rowNo": 1
+      }
+    ],
+    "col4": [
+      {
+        "title": "WE RECENTLY <br> EACHED 10K <br> RAISED WITH THE <br> CREATIVE CUP",
+        "copy": "CASE STUDY",
+        "href": "#",
+        "hex_type": "text",
+        "hex_bg": false,
+        "colNo": 2,
+        "rowNo": 2
+      },
+      {
+        "hex_type": "slide",
+        "slide": true,
+        "href": "#",
+        "logo": [
+          "hex-logo-slide1-sony.png",
+          "case-riley.png",
+          "smoke-case-panel.png",
+          "case-otb.png"
+        ]
+      }
+    ],
+    "col5": [
+      {
+        "title": "A RESPONSIVE <br> EMAIL SYSTEM FOR <br> ON THE BEACH",
+        "copy": "LOAD PROJECT",
+        "href": "#",
+        "hex_type": "image",
+        "hex_bg": ["case-otb.png"],
+        "colNo": 2,
+        "rowNo": 2
+      },
+      {
+        "title": "LOOKING TO <br> GET IN TOUCH ABOUT <br> A NEW WEBSITE?",
+        "copy": "CONTACT US",
+        "href": "#",
+        "hex_type": "text",
+        "hex_bg": false,
+        "colNo": 2,
+        "rowNo": 2
+      },
+      {
+        "title": "BUILDING A JAM <br> WORLD FOR A POPULAR <br> PR COMPANY",
+        "copy": "LOAD PROJECT",
+        "href": "#",
+        "hex_type": "image",
+        "hex_bg": ["case-jam.png"],
+        "colNo": 2,
+        "rowNo": 2
+      }
+    ],
+    "col6": [
+      {
+        "title": "A RESPONSIVE <br> EMAIL SYSTEM FOR <br> ON THE BEACH",
+        "copy": "LOAD PROJECT",
+        "href": "#",
+        "hex_type": "image",
+        "hex_bg": ["case-otb.png"],
+        "colNo": 2,
+        "rowNo": 2
+      },
+      {
+        "blank": true
+      }
+    ],
+    "col7": [
+      {
+        "title": "DESIGNLY <br> DEVELOPMENT <br> MOBILE <br> MOTION VIDEO <br> ILLUSTRATION <br> BRANDING",
+        "copy": "OUR SERVICES",
+        "href": "#",
+        "hex_type": "text",
+        "hex_bg": false,
+        "colNo": 2,
+        "rowNo": 1
+      },
+      {
+        "title": "BUILDING AN ARCHIVE <br> FOR A SALFORD ARTISTS <br> EXTENSIVE COLLECTION",
+        "copy": "LOAD PROJECT",
+        "href": "#",
+        "hex_type": "image",
+        "hex_bg": ["case-riley.png"],
+        "colNo": 2,
+        "rowNo": 2
+      },
+      {
+        "blank": true
+      }
+    ],
+    "col8": [
+      {
+        "blank": true
+      },
+      {
+        "title": "FLAMING HOT NEW <br> SITE &amp; BRAND FOR <br> SMOKE &amp; CROAK",
+        "copy": "LOAD PROJECT",
+        "href": "#",
+        "hex_type": "image",
+        "hex_bg": ["smoke-case-panel.png"],
+        "colNo": 2,
+        "rowNo": 1
+      }
+    ]
+  }
+}

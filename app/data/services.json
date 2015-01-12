@@ -1,0 +1,128 @@
+{
+  "services" : {
+    "row1": [
+      {
+        "icon": "design",
+        "title": "Design",
+        "copy": "Using our expert graphic design skills we can design you a website that you'll be proud to show your customers. Conveying a strong personality that will gain trust and respectability.",
+        "secondary-title": "Examples",
+        "list": [
+          {
+            "title":"Item 1",
+            "link": "#"
+          },
+          {
+            "title": "Item 2",
+            "link": "#"
+          },
+          {
+            "title": "Item 3",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "icon": "labs",
+        "title": "Labs",
+        "copy": "Using our expert graphic design skills we can design you a website that you'll be proud to show your customers. Conveying a strong personality that will gain trust and respectability.",
+        "secondary-title": "Examples",
+        "list": [
+          {
+            "title":"Item 1",
+            "link": "#"
+          },
+          {
+            "title": "Item 2",
+            "link": "#"
+          },
+          {
+            "title": "Item 3",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "icon": "mobile",
+        "title": "Mobile",
+        "copy": "Using our expert graphic design skills we can design you a website that you'll be proud to show your customers. Conveying a strong personality that will gain trust and respectability.",
+        "secondary-title": "Examples",
+        "list": [
+          {
+            "title":"Item 1",
+            "link": "#"
+          },
+          {
+            "title": "Item 2",
+            "link": "#"
+          },
+          {
+            "title": "Item 3",
+            "link": "#"
+          }
+        ]
+      }
+    ],
+    "row2": [
+      {
+        "icon": "video",
+        "title": "Motion Video",
+        "copy": "Brand idents, creative titles, animated logos, motion graphics, our motion production services will give your brand website or video that extra touch of flair with beautifully rendered graphics.",
+        "secondary-title": "Examples",
+        "list": [
+          {
+            "title":"Item 1",
+            "link": "#"
+          },
+          {
+            "title": "Item 2",
+            "link": "#"
+          },
+          {
+            "title": "Item 3",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "icon": "illustration",
+        "title": "Illustration",
+        "copy": "Looking for something more to give your brand extra character? Perhaps you're looking for a graphical way of communicating a message in a fun fashion. We have the illustration skills to deliver artwork suitable for all media, including print.",
+        "secondary-title": "Examples",
+        "list": [
+          {
+            "title":"Item 1",
+            "link": "#"
+          },
+          {
+            "title": "Item 2",
+            "link": "#"
+          },
+          {
+            "title": "Item 3",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "icon": "branding",
+        "title": "Branding",
+        "copy": "Branding and identity is one of the most important investments a company can make. It isn’t just about a logo! Your brand identity should be a reflection of your company values.",
+        "secondary-title": "Examples",
+        "list": [
+          {
+            "title":"Item 1",
+            "link": "#"
+          },
+          {
+            "title": "Item 2",
+            "link": "#"
+          },
+          {
+            "title": "Item 3",
+            "link": "#"
+          }
+        ]
+      }
+    ]
+  }
+}
